@@ -6,7 +6,7 @@ I'm a front-end developer from Brasil.<br>
 
 <hr>
 
-<h2 align="center">Habilidades:</h2>
+<h2 align="center">Skills:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
