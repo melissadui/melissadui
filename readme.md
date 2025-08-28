@@ -1,7 +1,7 @@
 <h1>👋 Hello, I'm Melissa Duilio.</h1>
 
 <p>
-I'm a front-end developer from Brasil.<br>
+I'm a front-end developer from Brazil.<br>
 </p>
 
 <hr>
